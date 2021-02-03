@@ -1,5 +1,5 @@
 version: "1"
 rules:
   - base: dist-amd64
-    upstream: tianon:master
+    upstream: tianon:dist-amd64
     mergeMethod: hardreset
